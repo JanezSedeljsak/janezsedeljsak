@@ -14,10 +14,11 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - Open source projects made later on are right here on my github...
 
 #### Hobbies
-<img title="Running" align="left" width="22px" src="https://static.thenounproject.com/png/762385-200.png" />
-<img title="Hiking" align="left" width="22px" src="https://img.icons8.com/cotton/2x/mountain.png" />
-<img title="Tennis" align="left" width="22px" src="https://www.freeiconspng.com/uploads/tennis-0.png" />
-<img title="Photoshop" align="left" width="22px" src="https://i.pinimg.com/originals/85/cb/4a/85cb4a8f1c0c9fdbd8d7bf2863129698.png" />
+<img title="Running" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/10555182201595759715-64.png" />
+<img title="Hiking" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11990998111544526164-64.png" />
+<img title="Tennis" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20880854861547643845-64.png" />
+<img title="Photoshop" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/14403540941579514014-64.png" />
+<img title="Drawing" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1546973341554126434-64.png" />
 <br />
 
 #### Favourite languages & frameworks/libraries
