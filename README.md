@@ -14,11 +14,11 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - Open source projects made later on are right here on my github...
 
 #### Hobbies
-<img title="Running" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/10555182201595759715-64.png" />
+<img title="Running" align="left" width="22px" src="https://icon-library.com/images/trainers.png" />
 <img title="Hiking" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11990998111544526164-64.png" />
 <img title="Tennis" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20880854861547643845-64.png" />
-<img title="Photoshop" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/14403540941579514014-64.png" />
-<img title="Drawing" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1546973341554126434-64.png" />
+<img title="Photoshop" align="left" width="22px" src="https://icons.veryicon.com/256/Application/Origami%20Adobe%20CS%20Series/Photoshop%20Extended%204.png" />
+<img title="Drawing" align="left" width="22px" src="https://iconbug.com/download/size/256/icon/3786/painting-drawing/" />
 <br />
 
 #### Favourite languages & frameworks/libraries
