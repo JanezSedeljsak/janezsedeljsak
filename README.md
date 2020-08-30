@@ -18,7 +18,7 @@ I'm a software developer currently studying computer science at [The Faculty of 
 <img title="Hiking" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/11990998111544526164-64.png" />
 <img title="Tennis" align="left" width="22px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20880854861547643845-64.png" />
 <img title="Photoshop" align="left" width="22px" src="https://icons.veryicon.com/256/Application/Origami%20Adobe%20CS%20Series/Photoshop%20Extended%204.png" />
-<img title="Drawing" align="left" width="22px" src="https://iconbug.com/download/size/256/icon/3786/painting-drawing/" />
+<img title="Drawing" align="left" width="22px" src="https://static.thenounproject.com/png/3103-200.png" />
 <br />
 
 #### Favourite languages & frameworks/libraries
