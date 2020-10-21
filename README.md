@@ -8,7 +8,7 @@ I'm a software developer currently studying computer science at [The Faculty of 
 
 #### How it all started
 - <b>2016</b> - The first actual project - a simple static html & css website
-- <b>2017</b> - Learning Java and C++ (basics of programming)
+- <b>late 2017</b> - Learning Java & JavaScript (basics of programming)
 - <b>early 2018</b> - C# windows forms and small WebApps in JavaScript
 - <b>late 2018</b> - Electron, Flask, AngularJs
 - Open source projects made later on are right here on my github...
