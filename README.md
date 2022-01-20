@@ -11,5 +11,5 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>late 2017</b> - Learning Java & JavaScript (basics of programming)
 - <b>early 2018</b> - C# windows forms and small WebApps in JavaScript
 - <b>late 2018</b> - Electron, Flask, AngularJs
-- <b>2019</b> - Solidity -> smart conracts (basics of blockchain)
+- <b>2019</b> - Smart contracts (basics of blockchain with Solidity)
 - <b>2021</b> - introduction to AI (machine learning, search algorithms, genetic algorithms)
