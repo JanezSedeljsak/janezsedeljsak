@@ -9,7 +9,8 @@ I'm a software developer currently studying computer science at [The Faculty of 
 #### Road map
 - <b>2016</b> - The first actual project - a simple static html & css website
 - <b>late 2017</b> - Learning Java & JavaScript (basics of programming)
-- <b>early 2018</b> - C# windows forms and small WebApps in JavaScript
+- <b>early 2018</b> - C# - windows forms, small web apps with JS
 - <b>late 2018</b> - Electron, Flask, AngularJs
 - <b>2019</b> - Smart contracts (basics of blockchain with Solidity)
-- <b>2021</b> - introduction to AI (machine learning, search algorithms, genetic algorithms)
+- <b>2021</b> - Introduction to AI (machine learning, search algorithms, data science, visualizations & prediction models)
+- <b>2022</b> - Compilers (language compilation & process of creating your own language)
