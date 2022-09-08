@@ -14,3 +14,11 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>2019</b> - Smart contracts (basics of blockchain with Solidity)
 - <b>2021</b> - Introduction to AI (machine learning, search algorithms, data science, visualizations & prediction models)
 - <b>2022</b> - Compilers (language compilation & process of creating your own language)
+
+#### Mentoring
+- <b>2019 january</b> - Python - beginner course
+- <b>2019 july</b> - Python & Django - intermediate course
+- <b>2020 january</b> - Electron & Vue - beginner course
+- <b>2020 july</b> - Unity 2D game development - beginner course
+- <b>2020 august</b> - Devolper onboarding - AngularJS & Flask (advanced)
+- <b>2022 august</b> - React & Node - intermediate course
