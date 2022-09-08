@@ -13,9 +13,9 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>late 2018</b> - Electron, Flask, AngularJs
 - <b>2019</b> - Smart contracts (basics of blockchain with Solidity)
 - <b>2021</b> - Introduction to AI (machine learning, search algorithms, data science, visualizations & prediction models)
-- <b>2022</b> - Compilers (language compilation & process of creating your own language)
+- <b>2022</b> - Language complilation, [creating a Java interpreted language](https://github.com/JanezSedeljsak/pins-compiler-v2)
 
-#### Mentoring
+#### Mentoring experience
 - <b>2019 january</b> - Python - beginner course
 - <b>2019 july</b> - Python & Django - intermediate course
 - <b>2020 january</b> - Electron & Vue - beginner course
