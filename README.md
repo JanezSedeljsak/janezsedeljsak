@@ -1,6 +1,6 @@
 ### Hi there, I'm Janez 👋
 
-I'm a software developer currently studying computer science at [The Faculty of Computer and Information Science in Ljubljana](https://www.fri.uni-lj.si/en) while partially working for [PRO-BIT](https://pro-bit.si/en/) as a web developer.
+I'm a software developer currently studying computer science at [The Faculty of Computer and Information Science in Ljubljana](https://www.fri.uni-lj.si/en) while partially working for [PRO-BIT](https://pro-bit.si/en/) as a full-stack engineer.
 
 #### Personal info
 - Born <b>12.12.2000 - Slovenia</b>
@@ -13,7 +13,8 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>late 2018</b> - Electron, Flask, AngularJs
 - <b>2019</b> - Smart contracts (basics of blockchain with Solidity)
 - <b>2021</b> - Introduction to AI (machine learning, search algorithms, data science, visualizations & prediction models)
-- <b>2022</b> - Language complilation, [creating a Java interpreted language](https://github.com/JanezSedeljsak/pins-compiler-v2)
+- <b>early 2022</b> - Language complilation, [creating a Java interpreted language](https://github.com/JanezSedeljsak/pins-compiler-v2)
+- <b>late 2022</b> - Decision models in Python, WebGL2, Software engineering concepts
 
 #### Mentoring experience
 - <b>2019 january</b> - Python - beginner course
