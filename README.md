@@ -14,7 +14,7 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>2019</b> - Smart contracts (basics of blockchain with Solidity)
 - <b>2021</b> - Introduction to AI (machine learning, search algorithms, data science, visualizations & prediction models)
 - <b>early 2022</b> - Language complilation, [creating a Java interpreted language](https://github.com/JanezSedeljsak/pins-compiler-v2)
-- <b>late 2022</b> - Decision models in Python, WebGL2 + GLSL shaders, software engineering concepts, enterprise React Native development
+- <b>late 2022</b> - Decision models in Python, WebGL2 + GLSL shaders, software engineering concepts, enterprise React Native
 - <b>early 2023</b> - Distributed systems & algorithms with CUDA, deeper dive into data science, devops (ci/cd, nginx, docker)
 
 #### Mentoring experience
