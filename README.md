@@ -16,7 +16,7 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>early 2022</b> - Language complilation, [creating a Java interpreted language](https://github.com/JanezSedeljsak/pins-compiler-v2)
 - <b>late 2022</b> - Decision models in Python, WebGL2 + GLSL shaders, software engineering concepts, enterprise React Native
 - <b>early 2023</b> - Distributed systems & algorithms with CUDA, deeper dive into data science, devops (ci/cd, nginx, docker)
-- <b>mid 2023</b> - Deep dive into relational databases, indexing & [development of my own DBMS integrated into the Python programming language](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=149871&lang=slv) - graduated with a comp. sci. degree
+- <b>mid 2023</b> - Deep dive into relational databases, indexing & [development of my own DBMS integrated into the Python programming language]([https://repozitorij.uni-lj.si/IzpisGradiva.php?id=149871&lang=slv](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152698&lang=slv)) - graduated with a comp. sci. degree
 - <b>late 2023</b> - Containerization (Kubernetes, logging, metrics, ...), Metaheuristic Algorithms, Machine learning and Bioinformatics
 
 #### Mentoring experience
