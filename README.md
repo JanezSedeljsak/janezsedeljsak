@@ -18,6 +18,8 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>early 2023</b> - Distributed systems & algorithms with CUDA, deeper dive into data science, devops (ci/cd, nginx, docker)
 - <b>mid 2023</b> - Deep dive into relational databases, indexing & [development of my own DBMS integrated into the Python programming language](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152698&lang=slv) - graduated with a comp. sci. degree
 - <b>late 2023</b> - Containerization (Kubernetes, logging, metrics, ...), Metaheuristic Algorithms, Machine learning and Bioinformatics
+- <b>early 2024</b> - Neuroevolution, network analysis, devops - cron pipelines, git actions, general scripting and maintaining projects
+- <b>late 2024</b> - Functional programming, classification optimizations via CUDA, nginx and general deployment flow via VPS
 
 #### Mentoring experience
 - <b>2019 january</b> - Python - beginner course
@@ -26,4 +28,5 @@ I'm a software developer currently studying computer science at [The Faculty of 
 - <b>2020 july</b> - Unity 2D game development - beginner course
 - <b>2020 august</b> - Devolper onboarding - AngularJS & Flask (advanced)
 - <b>2022 august</b> - React & Node - intermediate course
-- <b>2023 july</b> - HTML & CSS & JS - beginner course 
+- <b>2023 july</b> - HTML & CSS & JS - beginner course
+- <b>2024 july</b> - React, TypeScript, Directus, Collaborative filtering for recommendations  - intermediate course
