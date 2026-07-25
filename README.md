@@ -15,13 +15,16 @@
 Software engineer with a broad footprint across **full-stack, mobile, pipelines and DevOps** —
 equally comfortable designing architecture, shipping features, and keeping production systems
 running. Around **six years of full-time-equivalent experience** across four roles, alongside
-finishing my MSc at [FRI, University of Ljubljana](https://www.fri.uni-lj.si/en).
+finishing my MSc at [FRI, University of Ljubljana](https://www.fri.uni-lj.si/en). Strongest in
+**TypeScript, Python and Rust**.
 
 From a large ERP platform to language-processing pipelines, I care about **performance, clean
 design, and developer experience** — observability, deployment pipelines, and code that stays
 maintainable as systems grow. Curious by nature, I keep experimenting with new technologies,
 AI, and side projects; teaching and mentoring is just as rewarding, and explaining an idea
 properly is one of the best ways to understand it yourself.
+
+Outside of code: long-distance running, climbing, hiking, and helping on the family farm.
 
 📍 Velenje / Ljubljana, Slovenia
 
@@ -60,14 +63,3 @@ properly is one of the best ways to understand it yourself.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-### What I focus on
-
-- **Architecture & code quality** — systems that scale cleanly, readable code, and a habit of improving performance
-- **Frontend & mobile** — React and React Native, OAuth, PWAs, UI/UX shaped by years of design work
-- **Backend & data flows** — ORMs, caching, exports/imports, query and dataflow optimization
-- **CI/CD** — automated pipelines across GitHub Actions, GitLab, Docker, Rust and Bash
-- **Databases** — SQL, NoSQL, columnar storage; built my own DBMS, [**Graphenix**](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152698&lang=slv)
-- **Mentoring** — courses from total beginners to advanced university sessions (Python, React, TypeScript, AI)
