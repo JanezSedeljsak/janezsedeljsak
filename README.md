@@ -27,31 +27,6 @@ properly is one of the best ways to understand it yourself.
 
 ---
 
-### Experience
-
-| Role | Company | Focus |
-| --- | --- | --- |
-| **Full-stack & Mobile Developer** | [PRO-BIT](https://www.pro-bit.si/) · 2018 — present | ERP features, reports, React Native, shared mobile core |
-| **Pipeline Developer** | CJVT · 2024 — present | Language-data pipelines, Rust rebuild, custom scheduler & monitoring |
-| **Lead Developer & DevOps** | eQuiz · FRI · 2022 — present | Quiz platform modernization, CI/CD, mentoring |
-| **Maintainer** | Mathema · 2022 — present | School admin platform, Python upgrades, ops |
-
-_All roles part-time alongside studies._
-
----
-
-### Featured projects
-
-| Project | Description |
-| --- | --- |
-| [**Calumma**](https://github.com/JanezSedeljsak/calumma) | High-performance image editor — React + Tauri, Rust/WASM core, WebGPU |
-| [**Globingo**](https://github.com/JanezSedeljsak/globingo) | Geography PWA with ranked multiplayer, CI/CD, Prometheus + Grafana |
-| [**Graphenix**](https://github.com/JanezSedeljsak/graphenix) | Custom DBMS (BSc thesis) — B+ tree indexes, C++ core, Python DX |
-| [**retro-arcade**](https://github.com/JanezSedeljsak/retro-arcade) | Retro game arcade PWA — React, TypeScript, Kaplay, Supabase |
-| [**mysql-scheduled-exporter**](https://github.com/JanezSedeljsak/mysql-scheduled-exporter) | Dockerized, cron-scheduled MySQL exports with encryption |
-
----
-
 ### Tech stack
 
 **Languages**
@@ -96,13 +71,3 @@ _All roles part-time alongside studies._
 - **CI/CD** — automated pipelines across GitHub Actions, GitLab, Docker, Rust and Bash
 - **Databases** — SQL, NoSQL, columnar storage; built my own DBMS, [**Graphenix**](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=152698&lang=slv)
 - **Mentoring** — courses from total beginners to advanced university sessions (Python, React, TypeScript, AI)
-
----
-
-<div align="center">
-
-Outside of code: long-distance running, climbing, hiking, and helping on the family farm in Slovenia.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JanezSedeljsak&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=26374A&text_color=2B2B2B&icon_color=26374A)
-
-</div>
