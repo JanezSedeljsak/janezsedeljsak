@@ -12,16 +12,16 @@
 
 ---
 
-Software engineer with a broad footprint across **full-stack, mobile, pipelines and DevOps** —
+Software engineer with a broad footprint across **full-stack, pipelines and DevOps** —
 equally comfortable designing architecture, shipping features, and keeping production systems
-running. Around **six years of full-time-equivalent experience** across four roles, alongside
+running. **Five years of FTE-equivalent experience** across four roles, alongside
 finishing my MSc at [FRI, University of Ljubljana](https://www.fri.uni-lj.si/en). Strongest in
 **TypeScript, Python and Rust**.
 
-From a large ERP platform to language-processing pipelines, I care about **performance, clean
+From web product work at PRO-BIT to the **Trendi Corpus Pipeline** at CJVT (via **RS Labs**), I care about **performance, clean
 design, and developer experience** — observability, deployment pipelines, and code that stays
 maintainable as systems grow. Curious by nature, I keep experimenting with new technologies,
-AI, and side projects; teaching and mentoring is just as rewarding, and explaining an idea
+AI, and side projects; teaching and mentoring — from beginners through to university projects — is just as rewarding, and explaining an idea
 properly is one of the best ways to understand it yourself.
 
 Outside of code: long-distance running, climbing, hiking, and helping on the family farm.
