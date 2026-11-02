@@ -2,7 +2,7 @@
 
 # Janez Sedeljšak
 
-**Full-stack software engineer** · MSc Computer Science · Slovenia
+**Platform engineer at Sportradar** · MSc Computer Science · Slovenia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-26374A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://janezsedeljsak.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://si.linkedin.com/in/janez-sedelj%C5%A1ak-50a85a219)
@@ -12,16 +12,16 @@
 
 ---
 
-Software engineer with a broad footprint across **full-stack, pipelines and DevOps** —
-equally comfortable designing architecture, shipping features, and keeping production systems
-running. **Five years of FTE-equivalent experience** across four roles, alongside
-finishing my MSc at [FRI, University of Ljubljana](https://www.fri.uni-lj.si/en). Strongest in
-**TypeScript, Python and Rust**.
+Platform engineer at **Sportradar** and software engineer with a broad footprint across
+**full-stack, pipelines and DevOps** - equally comfortable designing architecture, shipping
+features, and keeping production systems running. MSc in Computer Science from
+[FRI, University of Ljubljana](https://www.fri.uni-lj.si/en), with **five years of FTE-equivalent
+experience** across four part-time roles while studying. Strongest in **TypeScript, Python and Rust**.
 
-From web product work at PRO-BIT to the **Trendi Corpus Pipeline** at CJVT (via **RS Labs**), I care about **performance, clean
-design, and developer experience** — observability, deployment pipelines, and code that stays
+From web product work at PRO-BIT to the **Trendi Corpus Pipeline** at CJVT (via **RS Labs**) and now platform engineering at Sportradar, I care about **performance, clean
+design, and developer experience** - observability, deployment pipelines, and code that stays
 maintainable as systems grow. Curious by nature, I keep experimenting with new technologies,
-AI, and side projects; teaching and mentoring — from beginners through to university projects — is just as rewarding, and explaining an idea
+AI, and side projects; teaching and mentoring - from beginners through to university projects - is just as rewarding, and explaining an idea
 properly is one of the best ways to understand it yourself.
 
 Outside of code: long-distance running, climbing, hiking, and helping on the family farm.
@@ -40,7 +40,7 @@ Outside of code: long-distance running, climbing, hiking, and helping on the fam
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
-**Web & mobile**
+**Full-stack**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
